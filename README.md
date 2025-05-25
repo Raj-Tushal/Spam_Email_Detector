@@ -6,8 +6,7 @@ Follow these steps:
 
 2. Clone this repository to your local machine.
 
-3. Open your terminal and run:
-
+3. Open your terminal and run: ""pip install scikit-learn""
 
 4. Then, run the Python file:
 
